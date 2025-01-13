@@ -1,4 +1,4 @@
-# My xmonad Configuration
+ # My xmonad Configuration
 
 I really like awesome but would love to write configs in haskell instead of
 lua.
